@@ -3,6 +3,8 @@ Network Regressions Use nwxtregress With (In) STATA 18 with unbalanced panel dat
 
 Network Regressions Use nwxtregress With (In) STATA 18
 
+https://www.youtube.com/watch?v=Wyd_1hHtR7I
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
